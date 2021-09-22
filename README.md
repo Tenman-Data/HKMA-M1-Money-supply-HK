@@ -2,7 +2,7 @@
 HK Monetary Authority 香港金管局每月 M1 money supply
 
 
-1. webscrap M1 money supply from HK Monetary Authority HKMA Gov;
+1. webscrap (API) M1 money supply from HK Monetary Authority HKMA Gov;
 2. understand the Data
 3. convert the data
 4. tidy up the data
